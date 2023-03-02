@@ -1,0 +1,25 @@
+.calci{
+    padding: 100px;
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+.key{
+    justify-content: space-evenly;
+    height: 2px;
+    width: 2px;
+    
+}
+
+.equal{
+    height: 50px;
+}
+
+
+.calc{
+    width: 100px;
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+}
